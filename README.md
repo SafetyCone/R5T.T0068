@@ -1,0 +1,2 @@
+# R5T.T0068
+IServiceName and IServiceNameOperator extension method bases.
